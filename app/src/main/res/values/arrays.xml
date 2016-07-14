@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 所有的Action类名都被声明在此数组中 -->
+    <string-array name="ACTION">
+        <item>TestAction</item>
+    </string-array>
+
+</resources>
